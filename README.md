@@ -4,6 +4,7 @@ I am a computer science student at the University of Florida!
 
 I love to innovate for the purpose of making life easier 😄 
 
+![](https://github.com/samforstot/samforstot/blob/main/images/luffy.gif)
 
 <!--
 **samforstot/samforstot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
