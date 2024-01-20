@@ -1,4 +1,6 @@
-### Hi, I'm Sam! 👋
+<!-- ### Hi, I'm Sam! 👋 -->
+
+![](https://github.com/samforstot/samforstot/blob/main/images/Banner.png)
 
 I am a computer science student at the University of Florida! 
 
