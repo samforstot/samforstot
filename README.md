@@ -9,6 +9,6 @@ I am a computer science student at the University of Florida! I love to innovate
 
 ## Cool Friends of Mine
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-# ONE PIECE!!!
+# ONE PIECE cool too
 ![](https://github.com/samforstot/samforstot/blob/main/images/luffy.gif)
 
